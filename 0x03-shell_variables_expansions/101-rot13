@@ -1,2 +1,2 @@
 #!/bin/bash
-nyvnf ebg13="ge 'N-Mn-m' 'A-MN-Za-mn-z'"
+tr '[a-z][A-Z]' '[n-za-m][N-ZA-M]'
